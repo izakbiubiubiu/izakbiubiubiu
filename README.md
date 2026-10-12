@@ -1,33 +1,31 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">I'm Izak.</h1>
+
+<p align="center">Software Developer · CS Student · Cybersecurity</p>
+
+## Know about me.
+
 <table>
 <tr>
-<td valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
-  <img src="logo-dark.png" width="320" alt="ASCII art logo">
-</picture>
-
+<td width="35%" align="center">
+  <img src="./assets/bust.png" alt="bust" width="260" />
 </td>
-<td valign="middle">
+<td>
 
-$\color{cyan}{\texttt{\textbf{Ryzo@blackarch}}}$<br>
-$\color{gray}{\texttt{------------------------------}}$<br>
-$\color{cyan}{\texttt{\textbf{OS:}}}$ BlackArch Linux x86_64<br>
-$\color{cyan}{\texttt{\textbf{Role:}}}$ Rogue Cultivator<br>
-$\color{cyan}{\texttt{\textbf{Kernel:}}}$ Cyber Security<br>
-$\color{cyan}{\texttt{\textbf{IDE:}}}$ Neovim, VS Code, Zed<br>
-$\color{cyan}{\texttt{\textbf{WM:}}}$ Niri, Hyprland, Openbox, Awesome, i3<br>
-$\color{cyan}{\texttt{\textbf{Uptime:}}}$ 2 years<br>
-<br>
-$\color{cyan}{\texttt{\textbf{Languages.Programming:}}}$ Python<br>
-$\color{cyan}{\texttt{\textbf{Languages.Computer:}}}$ Bash, Shell<br>
-$\color{cyan}{\texttt{\textbf{Languages.Real:}}}$ English<br>
-<br>
-$\color{gray}{\texttt{- Cyber Security --------------}}$<br>
-$\color{cyan}{\texttt{\textbf{Skills:}}}$ OSINT, Web Exploitation, OPSEC, Network Security<br>
-$\color{cyan}{\texttt{\textbf{Learning:}}}$ Ethical Hacking, Penetration Testing<br>
-$\color{cyan}{\texttt{\textbf{Practice:}}}$ Hands-on pentesting in isolated lab environments<br>
-$\color{cyan}{\texttt{\textbf{Motto:}}}$ Learn. Break. Secure. Repeat.<br>
+I'm a motivated and responsible student with a strong interest in cybersecurity and IT infrastructure. Currently developing foundational knowledge in cybersecurity, computer networks, operating systems, and information security through academic study and self-learning. Eager to gain my first professional experience, learn from experienced professionals, and develop practical skills in infrastructure security and cybersecurity operations.
+
+Currently exploring:
+
+`Cybersecurity` `Network Security` `Linux`
+`Ethical Hacking` `Penetration Testing` `OSINT`
+`System Security` `Security Analysis`
+
+I learn best by building things, breaking them, and figuring out why they broke.
+
+> Understand deeply. Build simply. Improve endlessly.
 
 </td>
 </tr>
